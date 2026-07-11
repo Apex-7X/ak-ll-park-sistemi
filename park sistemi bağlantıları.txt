@@ -1,0 +1,17 @@
+Parça	                      Arduino Uno
+HC-SR04 VCC	       5V
+HC-SR04 GND	       GND
+HC-SR04 Trig	                D2
+HC-SR04 Echo	        D4
+Yeşil LED Anot (+)	        D5 (220 Ω direnç üzerinden)
+Yeşil LED Katot (-)	        GND
+Sarı LED Anot (+)	        D6 (220 Ω direnç üzerinden)
+Sarı LED Katot (-)	        GND
+Kırmızı LED Anot (+)	D10 (220 Ω direnç üzerinden)
+Kırmızı LED Katot (-)	GND
+Pasif Buzzer (+)	        D9
+Pasif Buzzer (-)	        GND
+LCD VCC	                5V
+LCD GND	               GND
+LCD SDA	                       A4
+LCD SCL	                       sA5
